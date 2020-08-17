@@ -28,8 +28,6 @@ You could also do this by naming them `a.weather-card.yaml` and `b.buttons.yaml`
 
 You can also add your own files (since HKI doesn't care about the file names, it just cares about the order). 
 
-### Get Addons
-
 ### Advanced
 You can have multiple cards in a single file if you so desire,which might be the case if you want to organise your cards differently or you prefer to have the same type of cards in the same file for easier editing.
 When having multiple cards in a file it will still render everything in the same order, so imagine in our previous example that the `weather-card.yaml` file would have two cards (e.g. a simple weather card and a forecast card), it will render the FILES on alphabetical/numerical order, NOT the cards! Remember this!
@@ -41,3 +39,6 @@ E.g.
 ```
 In this example the first card will be the simple weather card, the next one will be a forecast card (so the 2 cards in the first file go first). The third one will be the buttons and the fourth will be the map.
 So there are 3 files, but 4 cards (as in the first file there are two cards).
+
+### Get Addons
+To view all the available addons and their code click here. Instead of manually copying code to your installation, you can also download this repository to drag and drop addon files into your installation.
