@@ -10,8 +10,6 @@
 ### Install
 - Create a new file in the view you want (e.g. /homekit-infused/user/views/frontpage/), you can name it however you want
 - Copy the code below and make the necessary changes
-- Alternatively you can download the entire repo and drag drop this file into your own view (you'd still need to make the changes though)
-
 
 ```
 - type: horizontal-stack
