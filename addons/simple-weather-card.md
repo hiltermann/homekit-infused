@@ -16,22 +16,22 @@
 ```
 - type: horizontal-stack
   cards:
-    - !include ../../base/includes/gap.yaml
+    - !include ../../../base/includes/gap.yaml
     - type: custom:simple-weather-card                    
-          style: |
-            ha-card {
-              border-radius: var(--border-radius);
-              box-shadow: var(--box-shadow);
-              opacity: 0.8;
-              font-size: 12px;
-              font-family: var(--font-family);
-            }                      
-          entity: weather.dark_sky
-          name: Eindhoven
-          backdrop: false
-          tap_action:
-            action: navigate
-            navigation_path: /homekit-infused/weather
-    - !include ../../base/includes/gap.yaml
+      style: |
+        ha-card {
+          border-radius: var(--border-radius);
+          box-shadow: var(--box-shadow);
+          opacity: 0.8;
+          font-size: 12px;
+          font-family: var(--font-family);
+        }                      
+      entity: weather.dark_sky
+      name: Eindhoven
+      backdrop: false
+      tap_action:
+        action: navigate
+        navigation_path: /homekit-infused/weather
+    - !include ../../../base/includes/gap.yaml
 ```
 
