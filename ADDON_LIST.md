@@ -1,6 +1,6 @@
 # Available Addons (PLACEHOLDER!!!!!!)
 
-  - Simple Weather Card
+  - [Simple Weather Card](addons/simple-weather-card.md)
   - Photo Picture Elements
   - Homekit Button Single
   - Homekit Button Row
