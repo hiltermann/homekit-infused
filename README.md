@@ -5,7 +5,7 @@ Addons are cards for Homekit Infused. For convenience the addons will be sorted 
 
 ### How to install?
 An addon might need additional requirements like a custom card or changes to customize.yaml, you can view requirements at the specific addons page.
-Each view has a user section which can be found in the following folder `homekit-infused/user/views/`. To add a card to the view all you need to do is download the addon and put the file inside that folder.
+Each view has a user section which can be found in the following folder `homekit-infused/user/views/`. To add a card follow the instructions.
 Cards that are dropped into this folder will be rendered from top to bottom in alphabetical/numerical order (of the filename).
 E.g.
 ```
@@ -45,4 +45,4 @@ In this example the first card will be the simple weather card, the next one wil
 So there are 3 files, but 4 cards (as in the first file there are two cards).
 
 ### Get Addons
-To view all the available addons and their code [click here](ADDON_LIST.md). Instead of manually copying code to your installation, you can also download this repository to drag and drop addon files into your installation.
+To view all the available addons and their code [click here](ADDON_LIST.md).
