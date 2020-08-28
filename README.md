@@ -45,4 +45,4 @@ In this example the first card will be the simple weather card, the next one wil
 So there are 3 files, but 4 cards (as in the first file there are two cards).
 
 ### Get Addons
-To view all the available addons and their code click here. Instead of manually copying code to your installation, you can also download this repository to drag and drop addon files into your installation.
+To view all the available addons and their code [click here](ADDON_LIST.md). Instead of manually copying code to your installation, you can also download this repository to drag and drop addon files into your installation.
