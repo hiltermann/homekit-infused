@@ -4,10 +4,12 @@ Addons are cards for Homekit Infused. For convenience the addons will be sorted 
 
 
 ### How to install?
+An addon might need additional requirements like a custom card or changes to customize.yaml, you can view requirements at the specific addons page.
 Each view has a user section which can be found in the following folder `homekit-infused/user/views/`. To add a card to the view all you need to do is download the addon and put the file inside that folder.
 Cards that are dropped into this folder will be rendered from top to bottom in alphabetical/numerical order (of the filename).
 E.g.
 ```
+In the following folder /homekit-infused/user/views/frontpage/ you have
 buttons.yaml
 map-card.yaml
 weather-card.yaml
@@ -19,6 +21,7 @@ This gives us the opportunity to sort the cards to our likings.
 
 E.g.
 ```
+In the following folder /homekit-infused/user/views/frontpage/ you have
 01.weather-card.yaml
 02.buttons.yaml
 03.map-card.yaml
@@ -33,6 +36,7 @@ You can have multiple cards in a single file if you so desire,which might be the
 When having multiple cards in a file it will still render everything in the same order, so imagine in our previous example that the `weather-card.yaml` file would have two cards (e.g. a simple weather card and a forecast card), it will render the FILES on alphabetical/numerical order, NOT the cards! Remember this!
 E.g.
 ```
+In the following folder /homekit-infused/user/views/frontpage/ you have
 01.weather-card.yaml (this one has two cards in the file)
 02.buttons.yaml
 03.map-card.yaml
