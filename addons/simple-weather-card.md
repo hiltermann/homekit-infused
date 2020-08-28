@@ -1,4 +1,6 @@
 # Simple Weather Card
+![Homekit Infused](../images/simple-weather-card.png)
+
 
 ### Requirements
 - Install Simple Weather Card through HACS (do NOT forget to add the resource in sidebar > lovelace dashboards > resources)
