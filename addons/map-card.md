@@ -12,7 +12,7 @@
 - If you need less devices/persons to track than the preprogrammed three, simply remove a line
 
 ### Install
-- Create a new file in the view you want (e.g. /homekit-infused/user/views/frontpage/), you can name it however you want
+- Create a new file in the view you want (e.g. /homekit-infused/user/views/location/), you can name it however you want
 - Copy the code below and make the necessary changes
 
 ```
