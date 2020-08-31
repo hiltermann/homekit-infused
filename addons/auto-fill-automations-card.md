@@ -36,7 +36,7 @@ Add the following line to your lovelace resources
             type: entities
             style: |
               ha-card {
-                border-radius: {{ states('input_select.border_radius_selector') }};
+                border-radius: var(--border-radius);
                 box-shadow: var(--box-shadow);
               }
     - !include ../../../base/includes/gap.yaml
