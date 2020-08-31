@@ -1,5 +1,5 @@
 # Map Card
-![Homekit Infused](../images/map-card.png){ width=10% }
+![Homekit Infused](../images/map-card.png)
 
 
 ### Requirements (HACS)
