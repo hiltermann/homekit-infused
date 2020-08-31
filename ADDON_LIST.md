@@ -8,14 +8,15 @@
   - Laundry Card
   - Menu Card
   - Vacuum Card
-  - Auto-Fill Climate Card (including popups)
-  - Auto-Fill Devices Card (including popups)
-  - Auto-Fill Security Card (including popups)
-  - Auto-Fill Lights Card (including popups)
-  - Auto-Fill Media Player Card
-  - Auto-Fill Scenes Card
-  - Auto-Fill Battery Card
-  - Auto-Fill Automations Card
+  - Auto-Filled Climate Card (including popups)
+  - Auto-Filled Devices Card (including popups)
+  - Auto-Filled Security Card (including popups)
+  - Auto-Filled Lights Card (including popups)
+  - Auto-Filled Media Player Card
+  - Auto-Filled Scenes Card
+  - Auto-Filled Battery Card
+  - Auto-Filled Automations Card
+  - [Auto-Filled Certificates Card](addons/auto-fill-certificates-card.md)
   - Calendar Card
   - Google Home Card
   - Spotify Card
