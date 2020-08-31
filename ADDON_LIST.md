@@ -15,7 +15,7 @@
   - Auto-Filled Media Player Card
   - Auto-Filled Scenes Card
   - Auto-Filled Battery Card
-  - Auto-Filled Automations Card
+  - [Auto-Filled Automations Card](addons/auto-fill-automations-card.md)
   - [Auto-Filled Certificates Card](addons/auto-fill-certificates-card.md)
   - Calendar Card
   - Google Home Card
