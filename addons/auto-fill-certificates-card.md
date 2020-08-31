@@ -5,10 +5,10 @@
 ### Requirements (HACS)
 | Name | Type  | Description |
 |----------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [NONE] | None | Not applicable |
+| [Auto Entities](https://github.com/thomasloven/lovelace-auto-entities) | Frontend | This card is needed to fill entities automatically |
 
 ### Configuration
-- No configuration required (experienced users can change the style if they wish)
+- No configuration required (experienced users can change the style and change include/exclude parameters if they wish https://github.com/thomasloven/lovelace-auto-entities)
 
 ### Install
 - Create a new file in the view you want (e.g. /homekit-infused/user/views/certificates/), you can name it however you want
