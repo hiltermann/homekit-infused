@@ -2,8 +2,10 @@
 ![Homekit Infused](../images/simple-weather-card.png)
 
 
-### Requirements
-- Install Simple Weather Card through HACS (do NOT forget to add the resource in sidebar > lovelace dashboards > resources)
+### Requirements (HACS)
+| Name | Type  | Description |
+|----------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Simple Weather Card](https://github.com/kalkih/simple-weather-card) | Frontend | This is a small weather card, see screenshot for details |
 
 ### Configuration
 - To use this you can simply change the entity and the name (which is the city name)
