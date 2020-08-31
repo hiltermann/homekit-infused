@@ -12,8 +12,8 @@
 - If you need less devices/persons to track than the preprogrammed three, simply remove a line
 
 ### Install
-- Create a new file in the view you want (e.g. /homekit-infused/user/views/location/), you can name it however you want
-- Copy the code below and make the necessary changes
+- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/location/), you can name the file however you want (e.g. map-card.yaml)
+- Copy the code below and make changes if needed
 
 ```
 - type: horizontal-stack
