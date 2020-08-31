@@ -7,6 +7,10 @@
 |----------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Auto Entities](https://github.com/thomasloven/lovelace-auto-entities) | Frontend | This card is needed to fill entities automatically |
 
+### Resources
+Add the following line to your lovelace resources
+```/hacsfiles/lovelace-auto-entities/auto-entities.js```
+
 ### Configuration
 - No configuration required 
 - Experienced users can change the style and change include/exclude parameters if they wish (https://github.com/thomasloven/lovelace-auto-entities)
