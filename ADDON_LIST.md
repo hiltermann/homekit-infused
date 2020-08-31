@@ -4,7 +4,7 @@
   - Photo Picture Elements
   - Homekit Button Single
   - Homekit Button Row
-  - Map
+  - [Map Card](addons/map-card.md)
   - Laundry Card
   - Menu Card
   - Vacuum Card
