@@ -1,5 +1,5 @@
 # Map Card
-![Homekit Infused](../images/map-card.png)
+![Homekit Infused](../images/map-card.png =100)
 
 
 ### Requirements (HACS)
