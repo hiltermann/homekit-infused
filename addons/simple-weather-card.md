@@ -7,13 +7,17 @@
 |----------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Simple Weather Card](https://github.com/kalkih/simple-weather-card) | Frontend | This is a small weather card, see screenshot for details |
 
+### Resources
+Add the following line to your lovelace resources 
+```/hacsfiles/simple-weather-card/simple-weather-card-bundle.js```
+
 ### Configuration
 - To use this you can simply change the entity and the name (which is the city name)
 - Experienced users can play with the styles or the backdrop if they want
 
 ### Install
-- Create a new file in the view you want (e.g. /homekit-infused/user/views/frontpage/), you can name it however you want
-- Copy the code below and make the necessary changes
+- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/frontpage/), you can name the file however you want (e.g. weather-card.yaml)
+- Copy the code below and make changes if needed
 
 ```
 - type: horizontal-stack
