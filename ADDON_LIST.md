@@ -28,4 +28,4 @@
   - Spotify Card
   - [Title Text](addons/title-text-card.md)
   - Vacuum Card
-  - Waze Card
+  - [Waze Card](addons/waze-card.md)
