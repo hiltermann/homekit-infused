@@ -1,4 +1,8 @@
-# Available Addons (PLACEHOLDER!!!!!!)
+# Available Addons for Homekit Infused v3.x.x
+
+### [Homekit Infused Framework](https://github.com/jimz011/homekit-infused/tree/3.0.0)
+### [Homekit Infused Addons Documentation](https://github.com/jimz011/homekit-infused/tree/addons)
+### [Homekit Infused All Available Addons](https://github.com/jimz011/homekit-infused/tree/addons/ADDONS_LIST.md)
 
   - [Simple Weather Card](addons/simple-weather-card.md)
   - Photo Picture Elements
