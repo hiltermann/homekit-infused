@@ -2,7 +2,7 @@
 
 ### [Homekit Infused Framework](https://github.com/jimz011/homekit-infused/tree/3.0.0)
 ### [Homekit Infused Addons Documentation](https://github.com/jimz011/homekit-infused/tree/addons)
-### [Homekit Infused All Available Addons](https://github.com/jimz011/homekit-infused/tree/addons/ADDONS_LIST.md)
+### [Homekit Infused All Available Addons](https://github.com/jimz011/homekit-infused/tree/addons/ADDON_LIST.md)
 
 Addons are cards for Homekit Infused. For convenience the addons will be sorted per view as they were intended in previous versions of HKI, however ANY addon you find here can be used on ANY view!
 
