@@ -1,6 +1,8 @@
 # Simple Weather Card
 ![Homekit Infused](../images/simple-weather-card.png)
 
+### Description
+This is a small and elegant (but simple) weather card.
 
 ### Requirements (HACS)
 | Name | Type  | Description |
