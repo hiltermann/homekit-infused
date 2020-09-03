@@ -4,6 +4,7 @@
 ### [Homekit Infused Addons Documentation](https://github.com/jimz011/homekit-infused/tree/addons)
 ### [Homekit Infused All Available Addons](https://github.com/jimz011/homekit-infused/tree/addons/ADDONS_LIST.md)
 
+## Select an addon below, each addon has an image and documentation on how to install.
   - [Simple Weather Card](addons/simple-weather-card.md)
   - Photo Picture Elements
   - Homekit Button Single
