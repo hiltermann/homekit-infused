@@ -15,6 +15,7 @@
   - Auto-Filled Scenes Card
   - Auto-Filled Security Card (including popups)
   - Calendar Card
+  - [Gap Card](addons/gap-card.md)
   - Google Home Card
   - Homekit Button Single
   - Homekit Button Row
