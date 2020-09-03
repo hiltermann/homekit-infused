@@ -1,5 +1,5 @@
 # Title Text Card
-![Homekit Infused](../images/map-card.png)
+![Homekit Infused](../images/title-text-card.png)
 
 
 ### Requirements (HACS)
