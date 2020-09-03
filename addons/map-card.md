@@ -1,6 +1,8 @@
 # Map Card
 ![Homekit Infused](../images/map-card.png)
 
+### Description
+This is a map card to show the location of person and/or device_trackers.
 
 ### Requirements (HACS)
 | Name | Type  | Description |
