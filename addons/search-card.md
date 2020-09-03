@@ -1,6 +1,8 @@
 # Search Card
 ![Homekit Infused](../images/search-card.png)
 
+### Description
+This card can be used to quickly find an entity, just type a portion of the entity name inside the search bar and it will find it for you.
 
 ### Requirements (HACS)
 | Name | Type  | Description |
