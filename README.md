@@ -1,6 +1,6 @@
 # Addons for Homekit Infused v3.x
 
-[View all available addons](ADDON_LIST.md).
+[View all available addons](ADDON_LIST.md)
 
 Addons are cards for Homekit Infused. For convenience the addons will be sorted per view as they were intended in previous versions of HKI, however ANY addon you find here can be used on ANY view!
 
