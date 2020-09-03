@@ -1,6 +1,8 @@
 # Auto Filled Certificates Card (show expiry dates)
 ![Homekit Infused](../images/certificates-card.png)
 
+### Description
+This card will automatically create an entities card with ALL your certificate expiry sensors without the need of configuration.
 
 ### Requirements (HACS)
 | Name | Type  | Description |
