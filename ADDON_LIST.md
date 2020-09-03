@@ -20,7 +20,7 @@
   - Homekit Button Row
   - Laundry Card
   - [Map Card](addons/map-card.md)
-  - Menu Card
+  - [Menu Card](addons/menu-card.md)
   - Mini Graph Card
   - Photo Picture Elements
   - [Search Card](addons/search-card.md)
