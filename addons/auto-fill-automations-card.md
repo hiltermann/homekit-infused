@@ -1,6 +1,8 @@
 # Auto Filled Automations Card
 ![Homekit Infused](../images/automations-card.png)
 
+### Description
+This card will automatically create an entities card with ALL your automations without the need of configuration.
 
 ### Requirements (HACS)
 | Name | Type  | Description |
