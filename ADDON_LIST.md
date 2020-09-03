@@ -5,27 +5,27 @@
 ### [Homekit Infused All Available Addons](https://github.com/jimz011/homekit-infused/tree/addons/ADDON_LIST.md)
 
 ## Select an addon below, each addon has an image and documentation on how to install.
-  - [Simple Weather Card](addons/simple-weather-card.md)
-  - Photo Picture Elements
-  - Homekit Button Single
-  - Homekit Button Row
-  - [Map Card](addons/map-card.md)
-  - Laundry Card
-  - Menu Card
-  - Vacuum Card
+  - [Auto-Filled Automations Card](addons/auto-fill-automations-card.md)
+  - Auto-Filled Battery Card
+  - [Auto-Filled Certificates Card](addons/auto-fill-certificates-card.md)
   - Auto-Filled Climate Card (including popups)
   - Auto-Filled Devices Card (including popups)
-  - Auto-Filled Security Card (including popups)
   - Auto-Filled Lights Card (including popups)
   - Auto-Filled Media Player Card
   - Auto-Filled Scenes Card
-  - Auto-Filled Battery Card
-  - [Auto-Filled Automations Card](addons/auto-fill-automations-card.md)
-  - [Auto-Filled Certificates Card](addons/auto-fill-certificates-card.md)
+  - Auto-Filled Security Card (including popups)
   - Calendar Card
   - Google Home Card
-  - Spotify Card
-  - Search Card
+  - Homekit Button Single
+  - Homekit Button Row
+  - Laundry Card
+  - [Map Card](addons/map-card.md)
+  - Menu Card
   - Mini Graph Card
+  - Photo Picture Elements
+  - [Search Card](addons/search-card.md)
+  - [Simple Weather Card](addons/simple-weather-card.md)
+  - Spotify Card
+  - [Title Text](addons/title-text-card.md)
+  - Vacuum Card
   - Waze Card
-  - PLACEHOLDER!!!
