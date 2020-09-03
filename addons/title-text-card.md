@@ -1,6 +1,8 @@
 # Title Text Card
 ![Homekit Infused](../images/title-text-card.png)
 
+### Description
+This card is used to create a header style name for the views (see screenshot)
 
 ### Requirements (HACS)
 | Name | Type  | Description |
@@ -21,7 +23,7 @@
 ```
 
 ### Extra Information
-This card is probably best used when placed inside a vertical-stack (this will avoid creating a separate file for just a title on each view), in this example I have merged this addon and another addon in single file.
+This card is probably best used when placed inside a vertical-stack (this will avoid creating a separate file for just a title on each view), in this example I have merged this addon and another addon in single file. This is not necessary however)
 ```
 - type: vertical-stack
   cards:
