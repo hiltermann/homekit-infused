@@ -10,8 +10,7 @@ This card will automatically create an entities card with ALL your automations w
 | [NONE] | None | Not applicable |
 
 ### Resources
-Add the following line to your lovelace resources
-```/hacsfiles/lovelace-auto-entities/auto-entities.js```
+None required
 
 ### Configuration
 - No configuration required 
