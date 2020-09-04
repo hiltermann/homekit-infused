@@ -27,7 +27,7 @@ weather-card.yaml
 ```
 In this example the buttons will be at the top, below that there will be a map and below that there will be a weather card.
 
-Because the cards are always placed in alphabetical/numerical order of the filename you will find that all the addons from this repo will have a double digit in front of the name.
+Because the cards are always placed in alphabetical/numerical order of the FILENAME you can add a double digit in front of the name.
 This gives us the opportunity to sort the cards to our likings.
 
 E.g.
