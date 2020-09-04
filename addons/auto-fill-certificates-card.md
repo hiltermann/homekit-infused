@@ -41,6 +41,5 @@ None required
             border-radius: var(--border-radius);
             box-shadow: var(--box-shadow);
           }
-        columns: 3
     - !include ../../../base/includes/gap.yaml
     ```
