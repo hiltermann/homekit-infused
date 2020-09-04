@@ -7,7 +7,7 @@ This card will automatically create an entities card with ALL your certificate e
 ### Requirements (HACS)
 | Name | Type  | Description |
 |----------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Auto Entities](https://github.com/thomasloven/lovelace-auto-entities) | Frontend | This card is needed to fill entities automatically |
+| [NONE] | None | Not applicable |
 
 ### Resources
 Add the following line to your lovelace resources
