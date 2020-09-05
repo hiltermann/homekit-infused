@@ -9,11 +9,11 @@
   - Auto-Filled Battery Card
   - [Auto-Filled Camera Card](addons/auto-fill-camera-card.md)
   - [Auto-Filled Certificates Card](addons/auto-fill-certificates-card.md)
-  - [Auto-Filled Devices Card](addon/auto-fill-devices-card.md)(including popups)
-  - [Auto-Filled Lights Card](addon/auto-fill-lights-card.md)(including popups)
+  - [Auto-Filled Devices Card](addons/auto-fill-devices-card.md)(including popups)
+  - [Auto-Filled Lights Card](addons/auto-fill-lights-card.md)(including popups)
   - Auto-Filled Media Player Card
   - Auto-Filled Scenes Card
-  - [Auto-Filled Sensors Card](addon/auto-fill-sensors-card.md)
+  - [Auto-Filled Sensors Card](addons/auto-fill-sensors-card.md)
   - [Auto-Filled Thermostat Card](addons/auto-fill-thermostats-card.md)(including popups)
   - Calendar Card
   - [Gap Card](addons/gap-card.md)
