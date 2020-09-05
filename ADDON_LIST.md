@@ -7,13 +7,14 @@
 ## Select an addon below, each addon has an image and documentation on how to install.
   - [Auto-Filled Automations Card](addons/auto-fill-automations-card.md)
   - Auto-Filled Battery Card
+  - [Auto-Filled Camera Card](addons/auto-fill-camera-card.md)
   - [Auto-Filled Certificates Card](addons/auto-fill-certificates-card.md)
-  - Auto-Filled Climate Card (including popups)
-  - Auto-Filled Devices Card (including popups)
-  - Auto-Filled Lights Card (including popups)
+  - [Auto-Filled Devices Card](addon/auto-fill-devices-card.md)(including popups)
+  - [Auto-Filled Lights Card](addon/auto-fill-lights-card.md)(including popups)
   - Auto-Filled Media Player Card
   - Auto-Filled Scenes Card
-  - Auto-Filled Security Card (including popups)
+  - [Auto-Filled Sensors Card](addon/auto-fill-sensors-card.md)
+  - [Auto-Filled Thermostat Card](addons/auto-fill-thermostats-card.md)(including popups)
   - Calendar Card
   - [Gap Card](addons/gap-card.md)
   - Google Home Card
@@ -30,3 +31,4 @@
   - [Title Text](addons/title-text-card.md)
   - Vacuum Card
   - [Waze Card](addons/waze-card.md)
+  - Many many more to come that I have either forgot to mention or have not created yet !
