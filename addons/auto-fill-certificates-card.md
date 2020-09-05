@@ -13,7 +13,7 @@ This card will automatically create an entities card with ALL your certificate e
 None required
 
 ### Configuration
-- No configuration required 
+- No additional configuration required 
 - Experienced users can change the style and change include/exclude parameters if they wish (https://github.com/thomasloven/lovelace-auto-entities)
 
 ### Install

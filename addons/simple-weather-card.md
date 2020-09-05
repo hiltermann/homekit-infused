@@ -17,6 +17,15 @@ Add the following line to your lovelace resources
 - To use this you can simply change the entity and the name (which is the city name)
 - Experienced users can play with the styles or the backdrop if they want
 
+### Advanced
+| Parameters | Type | Default | Description |
+|----------------------------------|-------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| entity | String | weather.dark_sky | Sets the weather entity used for this card |
+| name | String | none | Sets the city name shown on the card |
+| backdrop | Boolean | false | Sets a backdrop for the card |
+| tap_action | You can simply change the tap_action to navigate elsewhere or call a service |
+
+
 ### Install
 - Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/frontpage/), you can name the file however you want (e.g. weather-card.yaml)
 - Copy the code below and make changes if needed

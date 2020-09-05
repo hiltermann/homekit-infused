@@ -4,14 +4,15 @@
 ### Description
 This is a map card to show the location of person and/or device_trackers.
 
-### Requirements (HACS)
-| Name | Type  | Description |
-|----------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [NONE] | None | Not applicable |
-
 ### Configuration
 - To use this you can simply change and/or add person and/or device_tracker entities to the list
-- If you need less devices/persons to track than the preprogrammed three, simply remove a line
+
+### Advanced
+| Parameters | Type | Default | Description |
+|----------------------------------|-------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| default_zoom | Integer | 15 | Sets the default zoom when opening the map |
+| aspect_ratio | String | 16x9 | Sets the height/width of the map |
+| entities | List | none | Sets the entities that will be shown on the map |
 
 ### Install
 - Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/location/), you can name the file however you want (e.g. map-card.yaml)

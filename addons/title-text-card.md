@@ -4,13 +4,13 @@
 ### Description
 This card is used to create a header style name for the views (see screenshot)
 
-### Requirements (HACS)
-| Name | Type  | Description |
-|----------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [NONE] | None | Not applicable |
-
 ### Configuration
 - You can only change the name section of this card!
+
+### Advanced
+| Parameters | Type | Default | Description |
+|----------------------------------|-------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| name | String | none | Sets the name/title to show |
 
 ### Install
 - Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/location/), you can name the file however you want (e.g. title-text-card.yaml)

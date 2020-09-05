@@ -14,7 +14,7 @@ Add the following line to your lovelace resources
 ```/hacsfiles/search-card/search-card.js```
 
 ### Configuration
-- No configuration required
+- No additional configuration required
 
 ### Install
 - Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/frontpage/), you can name the file however you want (e.g. search-card.yaml)

@@ -4,16 +4,8 @@
 ### Description
 This is a card that will create a gap at the left and right side of the screen (this will only be visible on a smartphone since desktop browsers have larger screens)
 
-### Requirements (HACS)
-| Name | Type  | Description |
-|----------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [NONE] | None | Not applicable |
-
-### Resources
-None required
-
 ### Configuration
-- No configuration required
+- No additional configuration required
 
 ### Install
 - This card is only usefull inside a horizontal-stack
