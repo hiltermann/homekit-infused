@@ -1,6 +1,8 @@
 # Auto Filled Thermostat Card
 * HKI Framework 3.0.1 or higher required
+
 ![Homekit Infused](../images/auto-fill-thermostats-card.png)
+![Homekit Infused](../images/thermostat-popup.png)
 
 ### Description
 This is an auto filled thermostat button with a homekit style popup embedded.
