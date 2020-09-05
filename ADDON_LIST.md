@@ -15,7 +15,7 @@
   - Auto-Filled Scenes Card
   - [Auto-Filled Sensors Card](addons/auto-fill-sensors-card.md)
   - [Auto-Filled Thermostat Card](addons/auto-fill-thermostats-card.md)(including popups)
-  - Calendar Card
+  - [Calendar Card](addons/calendar-card.md)
   - [Gap Card](addons/gap-card.md)
   - Google Home Card
   - Homekit Button Single
