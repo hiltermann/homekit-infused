@@ -25,7 +25,7 @@ Add the following line to your lovelace resources
 | dateTopFormat | String | DD/MM | Sets the date format |
 
 ### Install
-- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/frontpage/), you can name the file however you want (e.g. weather-card.yaml)
+- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/calendar/), you can name the file however you want (e.g. calendar-card.yaml)
 - Copy the code below and make changes if needed
 
 ```
