@@ -6,6 +6,8 @@ This card is used to create a quick google home speaker card
 
 ### Configuration
 Create two groups in your own group configuration in `configuration.yaml`. Then add the following 2 groups, the first group is used to enter the all speakers cast group. You can create this group by opening Google Home and then create a speaker group (I will suggest selecting all the speakers and name the group `All Speakers` or something like that, you might need to restart HA to get the entity). The second group is used to put all the google home speakers you have, note that you can ONLY use speakers that can otherwise be grouped by the Google Home app. If you create a speaker group in the Google Home app and your speaker is not listed, then this will also not work in this card!
+
+Additionally if you do not know how to add this to your configuration.yaml or have any troubles with it you can simply copy the code below, create a new file (e.g. google-home.yaml) and drop this file inside of the packages folder (this will NOT be overwritten by an update!)
 ```
 group:
   google_home_all_speakers: media_player.all_speakers
