@@ -1,4 +1,6 @@
 # Menu Card
+*HKI Framework 3.0.1 or higher required
+
 ![Homekit Infused](../images/menu-card.png)
 
 ### Description
