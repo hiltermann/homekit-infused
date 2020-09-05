@@ -71,7 +71,7 @@ When using multi floor setups you will have to change the code slightly, you can
     cards:
       {% for rooms in _global.devices_rooms_floor_0 %}
       - !include
-        - '../../../base/templates/auto-fill/auto-fill-lights-template.yaml'
+        - '../../../base/templates/auto-fill/auto-fill-devices-template.yaml'
         - rooms: {{ rooms }}
           columns: 3
       {% endfor %}
