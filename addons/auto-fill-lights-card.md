@@ -1,5 +1,6 @@
 # Auto Filled Lights Card
 * HKI Framework 3.0.1 or higher required
+
 ![Homekit Infused](../images/auto-fill-lights-card.png)
 
 ### Description
