@@ -17,7 +17,7 @@
   - [Auto-Filled Thermostat Card](addons/auto-fill-thermostats-card.md)(including popups)
   - [Calendar Card](addons/calendar-card.md)
   - [Gap Card](addons/gap-card.md)
-  - Google Home Card
+  - [Google Home Card](addons/google-home-card.md)
   - Homekit Button Single
   - Homekit Button Row
   - Laundry Card
