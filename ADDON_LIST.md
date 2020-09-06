@@ -7,6 +7,7 @@
 ## Select an addon below, each addon has an image and documentation on how to install.
 *note: the addons on this page will ONLY work with the HKI 3.x.x framework, they can not be used standalone (experienced users might be able to figure it out though). The addons on this page are ready to use cards and will only require a copy/paste with slight adjustments. None of the custom cards/addons that you will need to download through HACS are created by me!
 
+  - [Air Visual Card](air-visual-card.md)
   - [Auto-Filled Automations Card](addons/auto-fill-automations-card.md)
   - [Auto-Filled Battery Card](addons/auto-fill-battery-card.md)
   - [Auto-Filled Camera Card](addons/auto-fill-camera-card.md)
@@ -23,6 +24,7 @@
   - [Google Home Card](addons/google-home-card.md)
   - [Homekit Button](addons/button-navigation.md) (navigation)
   - [Homekit Frontpage Button Row](addons/frontpage-buttons.md) (navigation)
+  - [iFrame Card](addons/iframe-card.md)
   - Laundry Card
   - [Map Card](addons/map-card.md)
   - [Menu Card](addons/menu-card.md)
