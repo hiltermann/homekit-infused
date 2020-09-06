@@ -37,7 +37,7 @@ This is the default HKI navigation button, it is by default used in the [menu](m
 ```
 
 ### Extra Information
-You can use different types of stacks (like horizontal or vertical) but you can also use layout card. In both examples The number of buttons on the same column is 3 (so there are 3 buttons placed horizontally this way)
+You can use different types of stacks (like horizontal or vertical) but you can also use layout card. In both examples The number of buttons on the same row is 3 (so there are 3 buttons placed horizontally this way)
 ```
 # example with a vertical and horizontal stack
 # I use a vertical-stack so that the next horizontal-stack is always together in place with the first horizontal-stack. This will make the buttons stick together even when the desktop browser decides to move the cards.
@@ -106,5 +106,7 @@ There is however an easier way (since if you want 6 buttons, with each 3 in a ro
 ```
 In this example we also have 3 buttons, but every button we add next will be on the next row (so if you'd add another 6 buttons with a total of 9 buttons, you will have 3 rows with columns of 3 buttons. Like a 3x3 grid)
 This eliminates the need of using extra horizontal-stacks to achieve the same thing.
+
+To control the placement, note that the cards within both a horizontal-stack and layout card will be rendered first from left to right, this can be endless in a horizontal-stack, and in a layout-card it will be the amount of columns you've set. (so if you set 3, the 4th card will be placed on a new line). So if you want certain buttons to be rendered first, you must put that button at the beginning of the stack.
 
 *note: There is no 'better' way, they both achieve the same thing with the very difference of needing slightly less code for layout-card. However, layout-card is a custom-card whereas vertical/horizontal-stacks are core Home Assistant.
