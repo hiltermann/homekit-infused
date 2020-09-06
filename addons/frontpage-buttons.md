@@ -6,7 +6,8 @@
 This is the default HKI frontpage navigation row. 
 
 ### Configuration
-For detailed instructions on how to use this, please follow read the [button (navigation)](button-navigation.md) documentation!
+- For detailed instructions on how to use this, please follow read the [button (navigation)](button-navigation.md) documentation!
+- If you use the default config (the config below) then no additional config is required.
 
 ### Advanced
 For detailed instructions on how to use this, please follow read the [button (navigation)](button-navigation.md) documentation!
