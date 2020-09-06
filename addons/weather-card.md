@@ -2,7 +2,7 @@
 ![Homekit Infused](../images/weather-card.png)
 
 ### Description
-This is a normal weather card simple weather card.
+This is a normal (animated) weather card.
 
 ### Requirements (HACS)
 | Name | Type  | Description |
