@@ -10,10 +10,6 @@ This is the default HKI menu (in case you require this and deleted it by acciden
 - No additional configuration required
 - To configure badges inside the buttons please read the advanced section
 
-### Install
-- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/menu/), you can name the file however you want (e.g. menu-card.yaml)
-- Copy the code below and make changes if needed
-
 ### Advanced
 | Parameters | Type | Default | Description |
 |----------------------------------|-------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -22,6 +18,10 @@ This is the default HKI menu (in case you require this and deleted it by acciden
 | label | String | none | Sets the label for the buttons, by default it uses the global variables set inside `/user/config/header_config.yaml`. It is advised to change the names in that file instead, if you want to create a new (extra) button, you can simply hardcode the label |
 | notification | Template | none | Set a badge on a button, the badge will show what is set in the template, to make it easy all you'd need to do is replace the `input_number.empty` entity for an entity of which you want the state to be shown inside the badge (experienced users can set any template they want) |
 | background_color | Template | none | Sets background color of the badge, to make it easy all you'd need to do is replace the `input_number.empty` with the exact same entity as you have put inside the notification parameter explained above |
+
+### Install
+- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/menu/), you can name the file however you want (e.g. menu-card.yaml)
+- Copy the code below and make changes if needed
 
 ```
 # lovelace_gen
