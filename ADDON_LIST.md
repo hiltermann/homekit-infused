@@ -6,7 +6,7 @@
 
 ## Select an addon below, each addon has an image and documentation on how to install.
   - [Auto-Filled Automations Card](addons/auto-fill-automations-card.md)
-  - Auto-Filled Battery Card
+  - [Auto-Filled Battery Card](addons/auto-fill-battery-card.md)
   - [Auto-Filled Camera Card](addons/auto-fill-camera-card.md)
   - [Auto-Filled Certificates Card](addons/auto-fill-certificates-card.md)
   - [Auto-Filled Devices Card](addons/auto-fill-devices-card.md)(including popups)
