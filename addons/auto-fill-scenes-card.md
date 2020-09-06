@@ -1,4 +1,4 @@
-# Auto Fill Scenes Card
+# Auto Filled Scenes Card
 - HKI Framework 3.0.2 or higher required
 
 ![Homekit Infused](../images/auto-fill-scenes-card.png)
