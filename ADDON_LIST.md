@@ -31,4 +31,5 @@
   - [Title Text](addons/title-text-card.md)
   - Vacuum Card
   - [Waze Card](addons/waze-card.md)
+  - [Weather Card](addons/weather-card.md)(animated)
   - Many many more to come that I have either forgot to mention or have not created yet !
