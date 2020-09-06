@@ -7,7 +7,7 @@
 ## Select an addon below, each addon has an image and documentation on how to install.
 *note: the addons on this page will ONLY work with the HKI 3.x.x framework, they can not be used standalone (experienced users might be able to figure it out though). The addons on this page are ready to use cards and will only require a copy/paste with slight adjustments. None of the custom cards/addons that you will need to download through HACS are created by me!
 
-  - [Air Visual Card](air-visual-card.md)
+  - [Air Visual Card](addons/air-visual-card.md)
   - [Auto-Filled Automations Card](addons/auto-fill-automations-card.md)
   - [Auto-Filled Battery Card](addons/auto-fill-battery-card.md)
   - [Auto-Filled Camera Card](addons/auto-fill-camera-card.md)
