@@ -3,7 +3,7 @@
 ![Homekit Infused](../images/button-navigation.png)
 
 ### Description
-This is the default HKI navigation button, it is by default used in the [menu](menu-card.md) but can also be used anywhere else like on the [frontpage](frontpage-buttons.md)
+This is the default HKI navigation button, it is by default used in the [menu](menu-card.md) but can also be used anywhere else like on the frontpage, [click here](frontpage-buttons.md) if you are looking for a predefined frontpage button row.
 
 ### Configuration
 - You will need to set the name, icon, label and navigation path
