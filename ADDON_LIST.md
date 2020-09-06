@@ -18,7 +18,7 @@
   - [Auto-Filled Sensors Card](addons/auto-fill-sensors-card.md)
   - [Auto-Filled Thermostat Card](addons/auto-fill-thermostats-card.md) (including popups)
   - [Calendar Card](addons/calendar-card.md)
-  - [Frontpage Photo](addons/frontpage-photo.md)
+  - [Frontpage Photo/Image](addons/frontpage-photo.md)
   - [Gap Card](addons/gap-card.md)
   - [Google Home Card](addons/google-home-card.md)
   - [Homekit Button](addons/button-navigation.md) (navigation)
@@ -27,7 +27,6 @@
   - [Map Card](addons/map-card.md)
   - [Menu Card](addons/menu-card.md)
   - Mini Graph Card
-  - Photo Picture Elements
   - [Search Card](addons/search-card.md)
   - [Simple Weather Card](addons/simple-weather-card.md)
   - Spotify Card
