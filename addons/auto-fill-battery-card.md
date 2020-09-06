@@ -1,4 +1,4 @@
-# Auto Fill Battery Card
+# Auto Filled Battery Card
 - HKI Framework 3.0.2 or higher required
 
 ![Homekit Infused](../images/auto-fill-battery-card.png)
