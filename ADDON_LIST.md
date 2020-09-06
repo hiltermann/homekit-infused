@@ -9,12 +9,12 @@
   - [Auto-Filled Battery Card](addons/auto-fill-battery-card.md)
   - [Auto-Filled Camera Card](addons/auto-fill-camera-card.md)
   - [Auto-Filled Certificates Card](addons/auto-fill-certificates-card.md)
-  - [Auto-Filled Devices Card](addons/auto-fill-devices-card.md)(including popups)
-  - [Auto-Filled Lights Card](addons/auto-fill-lights-card.md)(including popups)
+  - [Auto-Filled Devices Card](addons/auto-fill-devices-card.md) (including popups)
+  - [Auto-Filled Lights Card](addons/auto-fill-lights-card.md) (including popups)
   - [Auto-Filled Media Players Card](addons/auto-fill-media-players-card.md)
   - Auto-Filled Scenes Card
   - [Auto-Filled Sensors Card](addons/auto-fill-sensors-card.md)
-  - [Auto-Filled Thermostat Card](addons/auto-fill-thermostats-card.md)(including popups)
+  - [Auto-Filled Thermostat Card](addons/auto-fill-thermostats-card.md) (including popups)
   - [Calendar Card](addons/calendar-card.md)
   - [Gap Card](addons/gap-card.md)
   - [Google Home Card](addons/google-home-card.md)
@@ -31,5 +31,5 @@
   - [Title Text](addons/title-text-card.md)
   - Vacuum Card
   - [Waze Card](addons/waze-card.md)
-  - [Weather Card](addons/weather-card.md)(animated)
+  - [Weather Card](addons/weather-card.md) (animated)
   - Many many more to come that I have either forgot to mention or have not created yet !
