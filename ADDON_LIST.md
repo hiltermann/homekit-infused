@@ -18,8 +18,8 @@
   - [Calendar Card](addons/calendar-card.md)
   - [Gap Card](addons/gap-card.md)
   - [Google Home Card](addons/google-home-card.md)
-  - [Homekit Button](addons/button-navigation.md] (navigation)
-  - [Homekit Frontpage Button Row](addons/frontpage-buttons.md] (navigation)
+  - [Homekit Button](addons/button-navigation.md) (navigation)
+  - [Homekit Frontpage Button Row](addons/frontpage-buttons.md) (navigation)
   - Laundry Card
   - [Map Card](addons/map-card.md)
   - [Menu Card](addons/menu-card.md)
