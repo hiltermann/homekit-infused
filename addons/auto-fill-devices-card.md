@@ -52,10 +52,10 @@ When using multi floor setups you will have to change the code slightly, you can
 | state | Integer | 0 | Sets a floor number, this is needed to create conditions as to when to show what floors |
 | max_columns | Integer | 3 | Do NOT touch this!! Use the parameter below for setting the columns! |
 | columns | Integer | 1 | Sets the number of buttons stacked horizontally |
-| _global.lights_room_floor_X | Integer | 0 | Replace `X` with a floor number, this MUST match the state condition |
+| _global.devices_rooms_floor_X | Integer | 0 | Replace `X` with a floor number, this MUST match the state condition |
 
 ### Install
-- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/lights/), you can name the file however you want (e.g. lights-card.yaml)
+- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/devices/), you can name the file however you want (e.g. devices-card.yaml)
 - Copy the code below and make changes if needed
 
 ##### Basic, only one floor
