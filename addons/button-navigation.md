@@ -10,10 +10,6 @@ This is the default HKI navigation button, it is by default used in the [menu](m
 - When using a layout-card you can also set a column size, else just use a horizontal-stack to stack buttons
 - You can add a button badge if you like
 
-### Install
-- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/frontpage/), you can name the file however you want (e.g. buttons.yaml)
-- Copy the code below and make changes if needed
-
 ### Advanced
 | Parameters | Type | Default | Description |
 |----------------------------------|-------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,6 +19,11 @@ This is the default HKI navigation button, it is by default used in the [menu](m
 | navigation_path | String | none | Sets the path the button should point to, you can ONLY choose any of the included views, to find out the path names you can open the `/homekit-infused/user/views/` folder. The folder names are exactly the same as their paths |
 | notification | Template | none | Set a badge on a button, the badge will show what is set in the template, to make it easy all you'd need to do is replace the `input_number.empty` entity for an entity of which you want the state to be shown inside the badge (experienced users can set any template they want) |
 | background_color | Template | none | Sets background color of the badge, to make it easy all you'd need to do is replace the `input_number.empty` with the exact same entity as you have put inside the notification parameter explained above |
+
+
+### Install
+- Create a new file inside the folder of the view you want (e.g. /homekit-infused/user/views/frontpage/), you can name the file however you want (e.g. buttons.yaml)
+- Copy the code below and make changes if needed
 
 ```
 - !include
