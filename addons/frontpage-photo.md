@@ -54,6 +54,90 @@ sensor:
         phone_battery_sensor: sensor.iphone_jimmy_battery_level
         travel_time_to_home: sensor.travel_time_to_home_jimmy
         travel_time_to_work: sensor.travel_time_to_work_jimmy
-        - !include ../../../base/includes/gap.yaml
+    - !include ../../../base/includes/gap.yaml
 ```
 
+### Extra Information
+This card will probably be more useful when stacking it, for 2 persons you will only need a horizontal-stack, for 4 persons I will advise you to use a vertical-stack as well.
+
+Example 2 persons:
+```
+- type: horizontal-stack
+  cards:
+    - !include ../../../base/includes/gap.yaml
+    - !include
+      - '../../../base/templates/picture-elements/frontpage-photo.yaml'
+      - person: person.jimmy
+        image_path: /local/images/jimmy_small.png
+        navigation_path: person_1
+        alignment: left
+        text_color: white
+        phone_battery_sensor: sensor.iphone_jimmy_battery_level
+        travel_time_to_home: sensor.travel_time_to_home_jimmy
+        travel_time_to_work: sensor.travel_time_to_work_jimmy
+    - !include
+      - '../../../base/templates/picture-elements/frontpage-photo.yaml'
+      - person: person.stephanie
+        image_path: /local/images/jimmy_small.png
+        navigation_path: person_2
+        alignment: right
+        text_color: white
+        phone_battery_sensor: sensor.iphone_stephanie_battery_level
+        travel_time_to_home: sensor.travel_time_to_home_stephanie
+        travel_time_to_work: sensor.travel_time_to_work_stephanie
+    - !include ../../../base/includes/gap.yaml
+```
+
+Example 4 persons:
+```
+- type: vertical-stack
+  cards:
+    - type: horizontal-stack
+      cards:
+        - !include ../../../base/includes/gap.yaml
+        - !include
+          - '../../../base/templates/picture-elements/frontpage-photo.yaml'
+          - person: person.jimmy
+            image_path: /local/images/jimmy.png
+            navigation_path: person_1
+            alignment: left
+            text_color: white
+            phone_battery_sensor: sensor.iphone_jimmy_battery_level
+            travel_time_to_home: sensor.travel_time_to_home_jimmy
+            travel_time_to_work: sensor.travel_time_to_work_jimmy
+        - !include
+          - '../../../base/templates/picture-elements/frontpage-photo.yaml'
+          - person: person.stephanie
+            image_path: /local/images/stephanie.png
+            navigation_path: person_2
+            alignment: right
+            text_color: white
+            phone_battery_sensor: sensor.iphone_stephanie_battery_level
+            travel_time_to_home: sensor.travel_time_to_home_stephanie
+            travel_time_to_work: sensor.travel_time_to_work_stephanie
+        - !include ../../../base/includes/gap.yaml
+    - type: horizontal-stack
+      cards:
+        - !include ../../../base/includes/gap.yaml
+        - !include
+          - '../../../base/templates/picture-elements/frontpage-photo.yaml'
+          - person: person.jane
+            image_path: /local/images/jane.png
+            navigation_path: person_3
+            alignment: left
+            text_color: white
+            phone_battery_sensor: sensor.iphone_jane_battery_level
+            travel_time_to_home: sensor.travel_time_to_home_jane
+            travel_time_to_work: sensor.travel_time_to_work_jane
+        - !include
+          - '../../../base/templates/picture-elements/frontpage-photo.yaml'
+          - person: person.john
+            image_path: /local/images/john.png
+            navigation_path: person_4
+            alignment: right
+            text_color: white
+            phone_battery_sensor: sensor.iphone_john_battery_level
+            travel_time_to_home: sensor.travel_time_to_home_john
+            travel_time_to_work: sensor.travel_time_to_work_john
+        - !include ../../../base/includes/gap.yaml
+```
