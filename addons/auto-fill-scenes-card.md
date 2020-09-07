@@ -30,7 +30,7 @@ This is a card that will fetch all your scenes and create a button page for it a
           - domain: scene
             options:
               !include
-              - '../../../base/templates/button/scene-service-call.yaml'
+              - '../../../base/templates/button/service-call.yaml'
               - entity: this.entity_id
                 grid:
                   '!include ../../../base/includes/light-devices-grid.yaml'
