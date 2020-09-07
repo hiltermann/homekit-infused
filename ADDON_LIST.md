@@ -28,7 +28,7 @@
   - Laundry Card
   - [Map Card](addons/map-card.md)
   - [Menu Card](addons/menu-card.md)
-  - Mini Graph Card
+  - [Mini Graph Card](addons/mini-graph-card.md)
   - [Search Card](addons/search-card.md)
   - [Simple Weather Card](addons/simple-weather-card.md)
   - Spotify Card
