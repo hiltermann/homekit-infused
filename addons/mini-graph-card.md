@@ -22,7 +22,7 @@ Add the following line to your lovelace resources
 ### Advanced
 | Parameters | Type | Default | Description |
 |----------------------------------|-------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| entity | String | none | Sets the entity used for the graph, unfortunately templating only works when using a single entity, if you want a card that shows multiple entities visit https://github.com/kalkih/mini-graph-card for more information |
+| entity | String | none | Sets the entity used for the graph, unfortunately templating only works when using a single entity, if you want a card that shows multiple entities visit https://github.com/kalkih/mini-graph-card for more information (this card must be created by yourself) |
 | name | String | none | Sets the name of the card |
 | points_per_hour | Integer | 2 | Sets the points measured per hour |
 | line_width | Integer | 3 | Sets the line/bar width of the card |
