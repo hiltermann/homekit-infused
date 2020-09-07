@@ -19,6 +19,7 @@
   - [Auto-Filled Sensors Card](addons/auto-fill-sensors-card.md)
   - [Auto-Filled Thermostat Card](addons/auto-fill-thermostats-card.md) (including popups)
   - [Calendar Card](addons/calendar-card.md)
+  - [Climate Preset Buttons](addons/climate-preset-buttons.md)
   - [Frontpage Photo/Image](addons/frontpage-photo.md)
   - [Gap Card](addons/gap-card.md)
   - [Google Home Card](addons/google-home-card.md)
