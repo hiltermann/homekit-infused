@@ -6,6 +6,7 @@ This is a very simple and basic card to track your waste collection.
 
 ### Configuration
 To use this you will need to setup a custom component for your situation that monitors your waste collection (for dutch users this is usually mijn_afvalwijzer or afvalbeheer, but this could be anything that suits your needs)
+
 To get the custom icons that are shown in the card you will need to add an entity_picture to the entities in your `customize.yaml`. To view an example of these images you can open the `www/images/` folder. Example of customize.yaml below:
 ```
 sensor.mijnafvalwijzer_gft:
